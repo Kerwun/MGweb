@@ -1,0 +1,42 @@
+033a06c Merge pull request #15 from mykael25/imgbot
+e5deced [ImgBot] Optimize images
+4dae98c updated about page
+3338ca2 added in about(testing)
+0133018 about ( add Machine & Equipments)
+9cec481 Product Images
+1e0d14a test if the fix moving href below inline css makes the website slower but fixes the line close #14
+8e91e95 added noscipt
+3d0c25c improved index speed index eliminated render blocking and added preload features
+cffb78a added pre loader on flex.js
+1fe2793 Merge branch 'master' of https://github.com/mykael25/MGWebsite
+07f075c fixed facebook plugin and removed css also fixed image sizes
+4664cdd test
+4387f5f edited package,json added "glob-parent": ">=5.1.2"
+bedcce8 Merge pull request #6 from mykael25/dependabot/npm_and_yarn/Layout-Editor/url-parse-1.5.3
+00fffe8 close #3
+aa02ddd Bump url-parse from 1.5.1 to 1.5.3 in /Layout-Editor
+1a8c711 added mailing removed some un-used src on index and added sticker calculator
+b4632f5 Merge pull request #2 from mykael25/imgbot
+0a581e6 [ImgBot] Optimize images
+0b18e4e hoping this push will optimize images
+f49f361 Merge pull request #1 from mykael25/imgbot
+140bf2c [ImgBot] Optimize images
+6394288 testing if imgbot is working on remote repo
+d08b2f4 fixed shop index images and linking
+0cbec68 fixed editor linking
+9f4d4df added price quotation on tarps
+fa3b199 before modifying single product page
+97cce53 commited deletion and updating of webp file also before modifying tarps and adding quotation
+b168744 commited via sublime and changed jpeg to webp
+ce2ab17 Merge branch 'master' of https://github.com/mykael25/MGWebsite
+c724e3b ok links and savepoint
+c49daa1 Create README.md
+3608807 updated readme.md on layout editor
+bc5bd14 made linking and fixed default canvas after the link
+ff0b0b1 addedlinking
+b8c1fbe pushing to github
+9f5b41e edited some details and changed some sht before removing shts
+fe43242 fcked up
+ec343c8 before deleting shts
+6c6c9c5 added paint
+3469963 INITIAL COMMIT
